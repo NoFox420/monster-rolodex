@@ -1,3 +1,8 @@
+
+this react project connects to an api and fetches data, which get's displayed in card-components. i added an input for a search query to only display the cards related to the query. i make use of class and functional components, react hooks, state, mapping arrays, lifecycle methods, props, destructuring and a little bit of css for asthetics.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
